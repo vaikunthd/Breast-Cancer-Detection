@@ -35,7 +35,7 @@ This project combines the power of deep learning with the accessibility of mobil
 
 ### 📊 Results
 
-- Achieved high classification accuracy on the test dataset (e.g., 92% accuracy, 90% precision, 93% recall)*.
+- Achieved high classification accuracy on the test dataset (96% accuracy, 96% precision, 99% recall)*.
 - The Android app provides results within seconds, making it suitable for real-time screening.
 
 ### 🛠️ How It Works
